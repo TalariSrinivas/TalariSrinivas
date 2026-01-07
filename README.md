@@ -46,6 +46,8 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/></td>
+    <td></td>
+    <td></td>
   </tr>
 
   <!-- Testing -->
@@ -54,6 +56,8 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" title="JUnit"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original.svg" width="40" title="Jasmine"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" width="40" title="Karma"/></td>
+    <td></td>
+    <td></td>
   </tr>
 
   <!-- Tools -->
