@@ -27,6 +27,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" title="Spring"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/></td>
+    <td></td>
   </tr>
 
   <!-- Libraries -->
@@ -36,6 +37,7 @@
     <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" title="Socket.io"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" title="Mongoose"/></td>
+    <td></td>
   </tr>
 
   <!-- Databases -->
