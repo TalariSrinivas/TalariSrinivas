@@ -8,7 +8,7 @@
 </p>
 
 ---
-<table align="center" cellpadding="12" cellspacing="0">
+<table align="center" cellpadding="12" cellspacing="0" width="100%">
   
   <!-- Languages -->
   <tr>
