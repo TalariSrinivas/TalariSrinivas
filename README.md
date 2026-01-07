@@ -10,11 +10,11 @@
 
 ---
 
-## 🙋‍♂️ About Me
-- 👨‍💻 Full Stack Developer with hands-on experience in building and testing web applications  
-- 🧪 Strong interest in **Backend Testing, Automation, and Quality Assurance**  
-- 🌱 Continuously learning modern frameworks, testing tools, and best practices  
-- 🔗 Explore my projects: **[talarisrinivas.netlify.app](https://talarisrinivas.netlify.app/)**
+## About Me
+- Full Stack Developer with hands-on experience in building and testing web applications  
+- Strong interest in **Backend Testing, Automation, and Quality Assurance**  
+- Continuously learning modern frameworks, testing tools, and best practices  
+- Explore my projects: **[talarisrinivas.netlify.app](https://talarisrinivas.netlify.app/)**
   
 ---
 
