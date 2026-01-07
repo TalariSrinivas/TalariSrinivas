@@ -1,22 +1,23 @@
 
+<h1 align="center">Hi 👋, I'm Talari Srinivas</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-
   <a href="https://talarisrinivas.netlify.app/" target="_blank">🌐 Portfolio</a>
-
+  •
   <a href="mailto:talarisrinivas201067@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## About Me
-- Full Stack Developer with a strong interest in building scalable web applications  
-- Always learning new technologies and improving problem-solving skills  
-- Check out my projects here: **[talarisrinivas.netlify.app](https://talarisrinivas.netlify.app/)**  
-- Full Stack Developer with hands-on experience in building and testing web applications  
-
+## 🙋‍♂️ About Me
+- 👨‍💻 Full Stack Developer with hands-on experience in building and testing web applications  
+- 🧪 Strong interest in **Backend Testing, Automation, and Quality Assurance**  
+- 🌱 Continuously learning modern frameworks, testing tools, and best practices  
+- 🔗 Explore my projects: **[talarisrinivas.netlify.app](https://talarisrinivas.netlify.app/)**
+  
 ---
+
 <table align="center" cellpadding="12" cellspacing="0" width="100%">
   
   <!-- Languages -->
