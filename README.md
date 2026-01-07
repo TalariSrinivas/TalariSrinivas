@@ -9,11 +9,11 @@
 
 ---
 
-## 🙋‍♂️ About Me
-- 👨‍💻 Full Stack Developer with hands-on experience in building and testing web applications  
-- 🧪 Strong interest in **Backend Testing, Automation, and Quality Assurance**  
-- 🌱 Continuously learning modern frameworks, testing tools, and best practices  
-- 🔗 Explore my projects: **[talarisrinivas.netlify.app](https://talarisrinivas.netlify.app/)**  
+## About Me
+- Full Stack Developer with hands-on experience in building and testing web applications  
+- Strong interest in **Backend Testing, Automation, and Quality Assurance**  
+- Continuously learning modern frameworks, testing tools, and best practices  
+- Explore my projects: **[talarisrinivas.netlify.app](https://talarisrinivas.netlify.app/)**  
 
 ---
 
@@ -33,6 +33,27 @@
 ---
 
 ## 🛠️ Languages & Tools
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <th></th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></th>
+        <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></th>
+    </tr>
+    <tr>
+        <th>Row 1</th>
+        <td>A</td>
+        <td>B</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <th>Row 2</th>
+        <td>D</td>
+        <td>E</td>
+        <td>F</td>
+    </tr>
+</table>
+
 
 ### 💻 Frontend
 <p>
